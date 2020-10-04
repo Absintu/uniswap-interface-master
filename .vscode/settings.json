@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/90c9eaaf-d2e3-4953-83d1-9c276c12f8cf/resourceGroups/AfricaFinex/providers/Microsoft.Web/sites/Africafinex2",
+    "appService.deploySubpath": "./public"
+}
